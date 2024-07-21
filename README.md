@@ -1,5 +1,5 @@
 <h1 align="center">I like Hatsune miku FRFR</h1>
-<h3 align="center">I have no idea what I'm doing, I like coding</h3>
+<h3 align="center">I honeslty have no idea what im doing but we ball. I love coding frfr. ALSO DRINK WATER</h3>
 
 <image align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1865062058289080236/54558C5206FAA59805A6FCC1133E2274461F21EA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
