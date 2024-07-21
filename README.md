@@ -1,4 +1,4 @@
-<img src="https://github.com/TinCanAustin/TinCanAustin/blob/main/Screenshot%202024-07-22%20002822.png?raw=true" alt="MEEEEE" width="1000" height="300">
+<img src="https://github.com/TinCanAustin/TinCanAustin/blob/main/Screenshot%202024-07-22%20002822.png?raw=true" alt="MEEEEE" width="1000">
 
 <h1 align="center">Hi im Austin. <image src="https://media.tenor.com/479c0ktRaT4AAAAi/pjsekai-project-sekai.gif" width="50"> </h1>
 
