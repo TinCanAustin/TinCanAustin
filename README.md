@@ -7,7 +7,7 @@
 <image align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1865062058289080236/54558C5206FAA59805A6FCC1133E2274461F21EA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <h3 align="left">About me:</h3>
-<p><em>Studying at <a href="https://www.sfu.ca/">Simon Fraser University</a></br>Working for <a href="https://www.8pxstudio.com/">8xpstudio</a></br>
+<p><em>Studying at <a href="https://www.sfu.ca/">Simon Fraser University</a></br>Working for <a href="https://www.8pxstudio.com/">8pxstudio</a></br>
   Really bad osu player <a href="https://osu.ppy.sh/users/17721081">RofRof_IAmADog</a>
 </em></p>
 
