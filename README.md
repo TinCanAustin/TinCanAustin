@@ -11,6 +11,10 @@
   Really bad osu player <a href="https://osu.ppy.sh/users/17721081">RofRof_IAmADog</a>
 </em></p>
 
+<h3 align="left">Listening to rn:</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31upas3zpw2gtidln4gucox4u2kq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=001eff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h3>💻 GitHub Profile Stats (Please im getting there)</h3>
 <image align = "right" src="https://media1.tenor.com/m/7oD0eZgzY8UAAAAd/hatsune-miku.gif" width="400">
 
