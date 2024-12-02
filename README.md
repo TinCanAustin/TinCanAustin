@@ -18,7 +18,7 @@
 <h3>💻 GitHub Profile Stats (Please im getting there)</h3>
 <image align = "right" src="https://media1.tenor.com/m/7oD0eZgzY8UAAAAd/hatsune-miku.gif" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinCanAustin&theme=radical)]  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinCanAustin&theme=radical)
 
 
 <h3 align="left">Things I know:</h3>
