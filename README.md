@@ -19,7 +19,6 @@
 <image align = "right" src="https://media1.tenor.com/m/7oD0eZgzY8UAAAAd/hatsune-miku.gif" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinCanAustin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TinCanAustin&show_icons=true&theme=radical)
 
 
 <h3 align="left">Things I know:</h3>
